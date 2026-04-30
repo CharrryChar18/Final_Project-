@@ -1,0 +1,135 @@
+body{
+    background-color:#cc533a ;
+}
+
+ul {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    list-style-type: none;
+    font-size: 20px;
+    background-color: rgb(61, 113, 169);
+    height: 40px;
+    padding-top: 10px;
+}
+
+#p2{ 
+    font-size: 12px;
+    padding-top: 430px;
+}
+
+
+p {
+    position: absolute;
+    text-align: center;
+    top: 50%;
+    font-family: monospace;
+    color: white;
+   font-size: 20px;
+}
+
+.center{
+    position: absolute;
+    top: 18%;
+    left: 45%;
+    font-family: monospace;
+    font-weight: bold;
+    color: white;
+    font-size: 20px;
+
+}
+
+.right{
+    top: 18%;
+    position:absolute;
+    right: 270px;
+    font-family: monospace;
+    font-weight: bold;
+    color:white;
+    font-size: 20px;
+
+}
+
+.left{
+     top: 18%;
+    position:absolute;
+    left: 210px;
+    font-family: monospace;
+    font-weight: bold;
+    color: white;
+    font-size: 20px;
+
+}
+
+#link:hover{
+    
+    color: rgb(0, 0, 0);
+}
+
+a:active{
+    color: white;
+}
+
+a:visited{
+    color: white;
+}
+
+
+#char{
+    padding-top: 100px;
+    width: 250px;
+}
+
+#charmeleon{
+     padding-top: 100px;
+    width: 230px;
+}
+
+#charizard{
+      padding-top: 100px;
+    width: 300px;
+}
+
+
+.column{
+    padding-top: 200px;
+    display: flex;
+    justify-content: center;
+    float: left;
+    width: 32%;
+    padding: 7px;
+}
+
+.columntwo{
+    padding-top: 200px;
+    display: flex;
+    justify-content: center;
+    float: right;
+    width: 32%;
+    padding: 7px;
+}
+
+#shinychar{
+      padding-top: 300px;
+    width: 250px;
+}
+
+#shinycharmeleon{
+      padding-top: 300px;
+    width: 250px;
+}
+
+#shinycharizard{
+      padding-top: 300px;
+    width: 250px;
+}
+
+
+.centertwo{
+ position: absolute;
+    top: 75%;
+    left: 43%;
+    font-family: monospace;
+    font-weight: bold;
+    color: rgb(60, 24, 22);
+    font-size: 20px;
+
+}

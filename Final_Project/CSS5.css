@@ -1,0 +1,88 @@
+body{ 
+    background-image: url(Ditto\ background.jpg);
+}
+
+ul {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    list-style-type: none;
+    font-size: 20px;
+    background-color: rgb(230, 169, 251);
+    height: 40px;
+    padding-top: 10px;
+}
+
+p {
+position: absolute;
+text-align: center;
+left: 10%;
+top: 10%;
+font-family: monospace;
+color: white;
+font-size: 15px;
+filter: brightness(5%);
+}
+
+
+#link:hover{
+    
+    color: rgb(179, 225, 248);
+}
+
+a:active{
+    color: white;
+}
+
+a:visited{
+    color: white;
+}
+
+#fandlname {
+    position: absolute;
+    left:48%;
+    top: 80%;
+        border-radius: 10px;
+        background-color: plum;
+        padding: 20px;
+}
+ #text{
+        position: absolute;
+        left: 48.7%;
+        top: 78%;
+         color: white;
+        font-family: monospace;
+    }
+
+    #Emailadd{
+         position: absolute;
+    left: 48%;
+    top: 90%;
+        border-radius: 10px;
+        background-color: plum;
+        padding: 20px;
+    }
+
+    #text2{
+        color: white;
+        font-family: monospace;
+         position: absolute;
+        left: 50%;
+        top: 88%;
+    }
+
+    #submit{ 
+        position: absolute;
+        left: 51%;
+        top: 97%;
+
+    }
+
+    #submit:hover{
+        color: purple;
+    }
+    
+
+    #p2{ 
+    font-size: 12px;
+    padding-top: 800px;
+    left: 1%;
+}

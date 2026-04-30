@@ -1,0 +1,99 @@
+body {
+    background-image: url(Untitled\ design.jpg);
+
+}
+#p3{
+    top: 85%;
+    position:absolute;
+    right: 5px;
+}
+ul {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    list-style-type: none;
+    font-size: 20px;
+    background-color: red;
+    height: 40px;
+    padding-top: 10px;
+}
+
+#link:hover{
+    
+    color: black;
+}
+
+a:active{
+    color: white;
+}
+
+a:visited{
+    color: white;
+}
+
+#char{
+     padding-top: 200px;
+    width: 250px;
+}
+
+#bulb{
+    padding-top: 200px;
+    width: 250px;
+   
+}
+#turt{
+     padding-top: 200px;
+    width: 250px;
+}
+
+#ditto{
+    padding-top: 320px;
+    width: 60px;
+}
+
+.column{
+    display: flex;
+    justify-content: center;
+    float: left;
+    width: 32%;
+    padding: 7px;
+}
+
+.column2{
+    display: flex;
+    justify-content: center;
+    float: left;
+    width: 195%;
+}
+
+#bulb:hover{
+
+    transition: transform .2s;
+   -ms-transform: scale(2);
+    -webkit-transform: scale(2);
+    transform: scale(2);
+}
+
+
+#char:hover{
+
+    transition: transform .2s;
+   -ms-transform: scale(2);
+    -webkit-transform: scale(2);
+    transform: scale(2);
+}
+
+
+#turt:hover{
+
+    transition: transform .2s;
+   -ms-transform: scale(2);
+    -webkit-transform: scale(2);
+    transform: scale(2);
+}
+
+#ditto:hover{
+     transition: transform .1s;
+   -ms-transform: scale(1.2);
+    -webkit-transform: scale(1.2);
+    transform: scale(1.2);
+
+}

@@ -1,0 +1,134 @@
+body{
+    background-color:#5DBB63 ;
+}
+
+ul {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    list-style-type: none;
+    font-size: 20px;
+    background-color: rgb(235, 106, 172);
+    height: 40px;
+    padding-top: 10px;
+}
+
+#p2{ 
+    font-size: 12px;
+    padding-top: 430px;
+}
+
+p {
+    position: absolute;
+    text-align: center;
+    top: 50%;
+    font-family: monospace;
+    color: white;
+   font-size: 20px;
+}
+
+.center{
+    position: absolute;
+    top: 18%;
+    left: 48%;
+    font-family: monospace;
+    font-weight: bold;
+    color: white;
+    font-size: 20px;
+
+}
+
+.right{
+    top: 18%;
+    position:absolute;
+    right: 200px;
+    font-family: monospace;
+    font-weight: bold;
+    color:white;
+    font-size: 20px;
+
+}
+
+.left{
+     top: 18%;
+    position:absolute;
+    left: 170px;
+    font-family: monospace;
+    font-weight: bold;
+    color: white;
+    font-size: 20px;
+
+}
+
+#link:hover{
+    
+    color: rgb(105, 232, 198);
+}
+
+a:active{
+    color: white;
+}
+
+a:visited{
+    color: white;
+}
+
+
+#bulb{
+    padding-top: 100px;
+    width: 250px;
+}
+
+#ivysaur{
+     padding-top: 100px;
+    width: 230px;
+}
+
+#venusaur{
+      padding-top: 100px;
+    width: 300px;
+}
+
+
+.column{
+    padding-top: 200px;
+    display: flex;
+    justify-content: center;
+    float: left;
+    width: 32%;
+    padding: 7px;
+}
+
+.columntwo{
+    padding-top: 200px;
+    display: flex;
+    justify-content: center;
+    float: left;
+    width: 32%;
+    padding: 7px;
+}
+
+#shinybulb{
+      padding-top: 300px;
+    width: 250px;
+}
+
+#shinyivysaur{
+      padding-top: 300px;
+    width: 250px;
+}
+
+#shinyvenusaur{
+      padding-top: 300px;
+    width: 250px;
+}
+
+
+.centertwo{
+ position: absolute;
+    top: 75%;
+    left: 43%;
+    font-family: monospace;
+    font-weight: bold;
+    color: rgb(244, 222, 113);
+    font-size: 20px;
+
+}

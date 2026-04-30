@@ -1,0 +1,135 @@
+body{
+    background-color:#45c5f0 ;
+}
+
+ul {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    list-style-type: none;
+    font-size: 20px;
+    background-color: rgb(179, 136, 97);
+    height: 40px;
+    padding-top: 10px;
+}
+
+
+#p2{ 
+    font-size: 12px;
+    padding-top: 430px;
+}
+
+p {
+    position: absolute;
+    text-align: center;
+    top: 50%;
+    font-family: monospace;
+    color: white;
+   font-size: 20px;
+}
+
+.center{
+    position: absolute;
+    top: 18%;
+    left: 45%;
+    font-family: monospace;
+    font-weight: bold;
+    color: white;
+    font-size: 20px;
+
+}
+
+.right{
+    top: 18%;
+    position:absolute;
+    right: 200px;
+    font-family: monospace;
+    font-weight: bold;
+    color:white;
+    font-size: 20px;
+
+}
+
+.left{
+     top: 18%;
+    position:absolute;
+    left: 190px;
+    font-family: monospace;
+    font-weight: bold;
+    color: white;
+    font-size: 20px;
+
+}
+
+#link:hover{
+    
+    color: rgb(61, 115, 233);
+}
+
+a:active{
+    color: white;
+}
+
+a:visited{
+    color: white;
+}
+
+
+#squirtle{
+    padding-top: 100px;
+    width: 250px;
+}
+
+#Wartortle{
+     padding-top: 100px;
+    width: 230px;
+}
+
+#Blastoise{
+      padding-top: 100px;
+    width: 300px;
+}
+
+
+.column{
+    padding-top: 200px;
+    display: flex;
+    justify-content: center;
+    float: left;
+    width: 32%;
+    padding: 7px;
+}
+
+.columntwo{
+    padding-top: 200px;
+    display: flex;
+    justify-content: center;
+    float: right;
+    width: 32%;
+    padding: 7px;
+}
+
+#shinywartortle{
+      padding-top: 300px;
+    width: 250px;
+}
+
+#shinyblastoise{
+      padding-top: 300px;
+    width: 250px;
+}
+
+#shinysquirtle{
+      padding-top: 300px;
+    width: 250px;
+}
+
+
+.centertwo{
+ position: absolute;
+    top: 75%;
+    left: 43%;
+    font-family: monospace;
+    font-weight: bold;
+    color: rgb(176, 79, 194);
+    font-size: 20px;
+
+}
